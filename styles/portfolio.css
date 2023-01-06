@@ -440,6 +440,10 @@ i:hover {
         display: none;
     }
 
+    .head2{
+        margin-left: 0;
+    }
+    
     .menubarcontainer {
         position: absolute;
         right: 8vw;
