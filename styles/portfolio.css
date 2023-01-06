@@ -451,6 +451,19 @@ i:hover {
         display: inline-block;
     }
 
+    .head3 {
+        margin-left: 5px;
+    }
+
+    .intro3 {
+        margin-left: 5px;
+        text-align: left;
+    }
+
+    .workimg {
+        margin-left: 5px;
+    }
+
     .two {
         display: none;
     }
